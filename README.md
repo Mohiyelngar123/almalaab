@@ -8,10 +8,10 @@ https://mohiyelngar123.github.io/almalaab/manifest.json
 
 Then install «الملعب» from the app list. No PC, no Developer Mode app needed — the TV just needs to be rooted with Homebrew Channel.
 
-Current version: 1.0.1 (package `com.mohiy.sports`).
+Current version: 1.0.2 (package `com.mohiy.sports`).
 
 Files:
 - `manifest.json` — Homebrew Channel repo index (the URL above)
 - `com.mohiy.sports.manifest.json` — per-package manifest
-- `com.mohiy.sports_1.0.1_all.ipk` — installable package
+- `com.mohiy.sports_1.0.2_all.ipk` — installable package
 - `icon.png` — app icon
