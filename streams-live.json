@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-11-24T07:51:17.020583+00:00",
+  "generator": "almalaab-tracker/1.0 (run_all.py)",
+  "matches": [
+    {
+      "site": "kora-g.com",
+      "match_url": "https://kora-g.com/matches-today/",
+      "final_url": "https://kora-g.com/matches-today/",
+      "match_title": "مباريات اليوم | جدول المباريات والقنوات الناقلة - عبر كورة جول - kora goal",
+      "kickoff": "2026-11-24 07:45+00:00",
+      "extracted_at": "2026-11-24T07:52:19.498598+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "iframe_url": null,
+      "embed_host": null,
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://kora-g.com/matches-today/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 88,
+      "popups_closed": 0,
+      "clicks": [
+        "play-overlay: .play-overlay-mask"
+      ],
+      "notes": [
+        "no player iframe / stream found in 62s window"
+      ]
+    }
+  ]
+}
