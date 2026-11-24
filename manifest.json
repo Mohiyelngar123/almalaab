@@ -8,15 +8,15 @@
     "iconUri": "https://mohiyelngar123.github.io/almalaab/icon.png",
     "id": "com.mohiy.sports",
     "ipkHash": {
-     "sha256": "b96b55ae8ee03794b4d5c395da100eba93996ae0d07b0be14eb905ce8675755b"
+     "sha256": "08361b9744b6e7bfc4f0798c6228560ba52bab7c3f089f8707c8decb15353372"
     },
-    "ipkSize": 19635662,
-    "ipkUrl": "https://mohiyelngar123.github.io/almalaab/com.mohiy.sports_1.4.3_all.ipk",
+    "ipkSize": 19636860,
+    "ipkUrl": "https://mohiyelngar123.github.io/almalaab/com.mohiy.sports_1.4.4_all.ipk",
     "rootRequired": false,
     "sourceUrl": "https://github.com/Mohiyelngar123/almalaab",
     "title": "الملعب",
     "type": "web",
-    "version": "1.4.3"
+    "version": "1.4.4"
    },
    "manifestUrl": "https://mohiyelngar123.github.io/almalaab/com.mohiy.sports.manifest.json",
    "requirements": {
