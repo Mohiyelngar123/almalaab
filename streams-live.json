@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-24T07:51:17.020583+00:00",
+  "generated_at": "2026-11-24T20:06:20.234562+00:00",
   "generator": "almalaab-tracker/1.0 (run_all.py)",
   "matches": [
     {
       "site": "kora-g.com",
       "match_url": "https://kora-g.com/matches-today/",
-      "final_url": "https://kora-g.com/matches-today/",
+      "final_url": "https://p2.sami-hd.online/b-extra-1/",
       "match_title": "مباريات اليوم | جدول المباريات والقنوات الناقلة - عبر كورة جول - kora goal",
-      "kickoff": "2026-11-24 07:45+00:00",
-      "extracted_at": "2026-11-24T07:52:19.498598+00:00",
+      "kickoff": "2026-11-24 20:00+00:00",
+      "extracted_at": "2026-11-24T20:23:30.024182+00:00",
       "page_status": 200,
       "page_headers": {
         "access-control-allow-origin": null,
@@ -17,6 +17,127 @@
       },
       "captcha_detected": false,
       "captcha_reason": null,
+      "player_tab_url": "https://p2.sami-hd.online/b-extra-1/",
+      "iframe_url": "https://p2.sami-hd.online/b-extra-1/",
+      "embed_host": "p2.sami-hd.online",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://kora-g.com/matches-today/",
+          "https://p2.sami-hd.online/b-extra-1/",
+          "https://p2.sami-hd.online/splplayer/b-extra-1/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 101,
+      "popups_closed": 1,
+      "clicks": [
+        "match-card: m-4746020 (live=True)",
+        "match-card player link: https://p2.sami-hd.online/b-extra-1/",
+        "player-tab adopted: https://p2.sami-hd.online/b-extra-1/"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1612283",
+      "final_url": "https://livehd.cloud/match/1612283",
+      "match_title": "بث مباشر مباراة المصري وبترول أسيوط اليوم في الدوري المصري الممتاز والقنوات الناقلة",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:55:53.406588+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "chrome-error://chromewebdata/",
+      "embed_host": "chromewebdata",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1612283",
+          "chrome-error://chromewebdata/",
+          "https://cdn.yallashoot.study/server/ontime1/",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 43,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1612285",
+      "final_url": "https://livehd.cloud/match/1612285",
+      "match_title": "بث مباشر مباراة المقاولون العرب والقناة اليوم في الدوري المصري الممتاز والقنوات الناقلة",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:56:54.962362+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "chrome-error://chromewebdata/",
+      "embed_host": "chromewebdata",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1612285",
+          "chrome-error://chromewebdata/",
+          "https://cdn.yallashoot.study/server/ontime1/",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 43,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1629987",
+      "final_url": "https://livehd.cloud/match/1629987",
+      "match_title": "بث مباشر مباراة شباب الأهلي والقادسية في دوري أبطال آسيا للنخبة والأهداف والإحصائيات",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:53:48.046259+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
       "iframe_url": null,
       "embed_host": null,
       "stream_url": null,
@@ -26,18 +147,1141 @@
         "m3u8_dom": [],
         "mp4_network": [],
         "iframes_all": [
-          "https://kora-g.com/matches-today/"
+          "https://livehd.cloud/match/1629987"
         ],
         "video_elements": []
       },
-      "requests_seen": 88,
+      "requests_seen": 49,
       "popups_closed": 0,
-      "clicks": [
-        "play-overlay: .play-overlay-mask"
-      ],
+      "clicks": [],
       "notes": [
         "no player iframe / stream found in 62s window"
       ]
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1629988",
+      "final_url": "https://jadwallive.com/news/13543",
+      "match_title": "403 Forbidden",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:14:33.050399+00:00",
+      "page_status": 403,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://jadwallive.com/news/13543",
+      "embed_host": "jadwallive.com",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://jadwallive.com/news/13543"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 4,
+      "popups_closed": 0,
+      "clicks": [],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1630406",
+      "final_url": "https://livehd.cloud/match/1630406",
+      "match_title": "بث مباشر مباراة السيب والشرطة العراقي في دوري أبطال آسيا 2 والأهداف والإحصائيات",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:54:49.890721+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": null,
+      "embed_host": null,
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1630406"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 27,
+      "popups_closed": 0,
+      "clicks": [],
+      "notes": [
+        "no player iframe / stream found in 61s window"
+      ]
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635611",
+      "final_url": "https://livehd.cloud/match/1635611",
+      "match_title": "بث مباشر مباراة آرسنال وبوروسيا دورتموند الآن في دوري أبطال أوروبا والنتيجة ‎0-0‎",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:07:21.680918+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://912acsss8af382.sirtv.top/playerv5.php?match=4828424&key=9f39972b67d6ce22189507d008acwc26",
+      "embed_host": "912acsss8af382.sirtv.top",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1635611",
+          "https://912acsss8af382.sirtv.top/playerv5.php?match=4828424&key=9f39972b67d6ce22189507d008acwc26",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 80,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635641",
+      "final_url": "https://livehd.cloud/match/1635641",
+      "match_title": "بث مباشر مباراة بودو جليمت ولاسك لينز الآن في دوري أبطال أوروبا",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:51:42.023019+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "chrome-error://chromewebdata/",
+      "embed_host": "chromewebdata",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1635641",
+          "chrome-error://chromewebdata/",
+          "https://cdn.yallashoot.study/server/bein1/",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 61,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635649",
+      "final_url": "https://livehd.cloud/match/1635649",
+      "match_title": "بث مباشر مباراة كومو وإيه إي كيه أثينا الآن في دوري أبطال أوروبا",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:13:30.776241+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "chrome-error://chromewebdata/",
+      "embed_host": "chromewebdata",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1635649",
+          "chrome-error://chromewebdata/",
+          "https://cdn.yallashoot.study/server/bein1/",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 69,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635663",
+      "final_url": "https://livehd.cloud/match/1635663",
+      "match_title": "بث مباشر مباراة فينورد وبورتو الآن في دوري أبطال أوروبا والنتيجة ‎0-1‎",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:11:27.087189+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "chrome-error://chromewebdata/",
+      "embed_host": "chromewebdata",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1635663",
+          "chrome-error://chromewebdata/",
+          "https://cdn.yallashoot.study/server/bein1/",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 65,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635667",
+      "final_url": "https://livehd.cloud/match/1635667",
+      "match_title": "بث مباشر مباراة غلطة سراي وأستون فيلا الآن في دوري أبطال أوروبا",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:52:45.869870+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "chrome-error://chromewebdata/",
+      "embed_host": "chromewebdata",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1635667",
+          "chrome-error://chromewebdata/",
+          "https://cdn.yallashoot.study/server/bein1/",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 65,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635692",
+      "final_url": "https://jadwallive.com/news/13566",
+      "match_title": "403 Forbidden",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:08:22.685737+00:00",
+      "page_status": 403,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://jadwallive.com/news/13566",
+      "embed_host": "jadwallive.com",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://jadwallive.com/news/13566"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 4,
+      "popups_closed": 0,
+      "clicks": [],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635713",
+      "final_url": "https://livehd.cloud/match/1635713",
+      "match_title": "بث مباشر مباراة رب لايبزيغ ولانس الآن في دوري أبطال أوروبا والنتيجة ‎0-0‎",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:10:25.975263+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "chrome-error://chromewebdata/",
+      "embed_host": "chromewebdata",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1635713",
+          "chrome-error://chromewebdata/",
+          "https://cdn.yallashoot.study/server/bein1/",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 76,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635715",
+      "final_url": "https://jadwallive.com/news/13565",
+      "match_title": "403 Forbidden",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:09:24.749807+00:00",
+      "page_status": 403,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://jadwallive.com/news/13565",
+      "embed_host": "jadwallive.com",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://jadwallive.com/news/13565"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 4,
+      "popups_closed": 0,
+      "clicks": [],
+      "notes": []
+    },
+    {
+      "site": "livehd.cloud",
+      "match_url": "https://livehd.cloud/match/1635731",
+      "final_url": "https://livehd.cloud/match/1635731",
+      "match_title": "بث مباشر مباراة سلوفان براتيسلافا وريال بيتيس الآن في دوري أبطال أوروبا",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:12:28.496119+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "chrome-error://chromewebdata/",
+      "embed_host": "chromewebdata",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://livehd.cloud/match/1635731",
+          "chrome-error://chromewebdata/",
+          "https://cdn.yallashoot.study/server/bein1/",
+          "about:blank"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 71,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1 (سريع HD)",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "showkoora.club",
+      "match_url": "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-%d9%88-%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a7%d8%b3%d9%8a%d9%88%d8%b7-2/",
+      "final_url": "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-%d9%88-%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a7%d8%b3%d9%8a%d9%88%d8%b7-2/",
+      "match_title": "لقاء المصري و بترول اسيوط بث مباشر وتفاصيل المعلق",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T18:06:12.111630+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": "upgrade-insecure-requests"
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": null,
+      "embed_host": null,
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-%d9%88-%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a7%d8%b3%d9%8a%d9%88%d8%b7-2/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 37,
+      "popups_closed": 0,
+      "clicks": [],
+      "notes": [
+        "no player iframe / stream found in 63s window"
+      ]
+    },
+    {
+      "site": "showkoora.club",
+      "match_url": "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%88-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-2/",
+      "final_url": "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%88-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-2/",
+      "match_title": "لقاء المقاولون العرب و القناة بث مباشر وتفاصيل المعلق",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T18:07:13.229020+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": "upgrade-insecure-requests"
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": null,
+      "embed_host": null,
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%88-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-2/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 41,
+      "popups_closed": 0,
+      "clicks": [],
+      "notes": [
+        "no player iframe / stream found in 61s window"
+      ]
+    },
+    {
+      "site": "showkoora.club",
+      "match_url": "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d9%88%d8%af%d9%88-%d8%ac%d9%84%d9%8a%d9%85%d8%aa-%d9%88-%d9%84%d8%a7%d8%b3%d9%83-%d9%84%d9%8a%d9%86%d8%b2/",
+      "final_url": "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d9%88%d8%af%d9%88-%d8%ac%d9%84%d9%8a%d9%85%d8%aa-%d9%88-%d9%84%d8%a7%d8%b3%d9%83-%d9%84%d9%8a%d9%86%d8%b2/",
+      "match_title": "مباراة بودو جليمت و لاسك لينز بث مباشر بتعليق أحمد عبده",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T18:05:09.106480+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": "upgrade-insecure-requests"
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": null,
+      "embed_host": null,
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://showkoora.club/matches/%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d9%88%d8%af%d9%88-%d8%ac%d9%84%d9%8a%d9%85%d8%aa-%d9%88-%d9%84%d8%a7%d8%b3%d9%83-%d9%84%d9%8a%d9%86%d8%b2/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 41,
+      "popups_closed": 0,
+      "clicks": [],
+      "notes": [
+        "no player iframe / stream found in 63s window"
+      ]
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84-%d9%88-%d8%a8%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84-%d9%88-%d8%a8%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88/",
+      "match_title": "مشاهدة مباراة أرسنال و بوروسيا دورتموند بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:19:29.775531+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/arsenal-vs-borussia-dortmund/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84-%d9%88-%d8%a8%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88/",
+          "about:blank",
+          "https://yallashot.team/player/arsenal-vs-borussia-dortmund/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 31,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84-%d9%88-%d9%86%d9%8a%d9%88%d9%85-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3%d9%88/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84-%d9%88-%d9%86%d9%8a%d9%88%d9%85-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3%d9%88/",
+      "match_title": "مشاهدة مباراة الدحيل و نيوم بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T18:02:00.673065+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": null,
+      "embed_host": null,
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84-%d9%88-%d9%86%d9%8a%d9%88%d9%85-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3%d9%88/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 15,
+      "popups_closed": 0,
+      "clicks": [],
+      "notes": [
+        "no player iframe / stream found in 61s window"
+      ]
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8-%d9%88-%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8-%d9%88-%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3/",
+      "match_title": "مشاهدة مباراة السيب و الشرطة بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:57:55.719889+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/al-seeb-vs-al-shorta/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8-%d9%88-%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d8%a9-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3/",
+          "about:blank",
+          "https://yallashot.team/player/al-seeb-vs-al-shorta/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 27,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-%d9%88-%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a7%d8%b3%d9%8a%d9%88%d8%b7-%d8%a8%d8%ab-%d9%85/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-%d9%88-%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a7%d8%b3%d9%8a%d9%88%d8%b7-%d8%a8%d8%ab-%d9%85/",
+      "match_title": "مشاهدة مباراة المصري و بترول اسيوط بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T18:04:05.464170+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/al-masry-vs-petrol-asyut/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-%d9%88-%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a7%d8%b3%d9%8a%d9%88%d8%b7-%d8%a8%d8%ab-%d9%85/",
+          "about:blank",
+          "https://yallashot.team/player/al-masry-vs-petrol-asyut/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 28,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%88-%d8%a7%d9%84%d9%82%d9%86%d8%a7/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%88-%d8%a7%d9%84%d9%82%d9%86%d8%a7/",
+      "match_title": "مشاهدة مباراة المقاولون العرب و القناة بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T18:03:03.478438+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/arab-contractors-vs-el-qanah/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d9%88-%d8%a7%d9%84%d9%82%d9%86%d8%a7/",
+          "about:blank",
+          "https://yallashot.team/player/arab-contractors-vs-el-qanah/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 28,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d9%88-%d8%a7%d9%84%d8%b3%d8%af-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3%d9%88%d8%b1/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d9%88-%d8%a7%d9%84%d8%b3%d8%af-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3%d9%88%d8%b1/",
+      "match_title": "مشاهدة مباراة النصر و السد بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:15:22.364538+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": true,
+      "captcha_reason": "challenge-text: تحقق من أنك إنسان",
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/al-nassr-vs-al-sadd/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [
+          "https://subduepaler.cyou/lp/i/80/7c/807c57cbabca60271b25931771ae4996924ad706.mp4"
+        ],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d9%88-%d8%a7%d9%84%d8%b3%d8%af-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3%d9%88%d8%b1/",
+          "about:blank",
+          "https://yallashot.team/player/al-nassr-vs-al-sadd/",
+          "about:srcdoc"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 36,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": [
+        "CAPTCHA detected mid-watch (challenge-text: تحقق من أنك إنسان) — site skipped this cycle, no stream attempted",
+        "mp4 seen (1) but no <video>/player context — likely an ad, kept in candidates only"
+      ]
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d9%88%d8%af%d9%88-%d8%ac%d9%84%d9%8a%d9%85%d8%aa-%d9%88-%d9%84%d8%a7%d8%b3%d9%83-%d9%84%d9%8a%d9%86%d8%b2-%d8%a8%d8%ab/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d9%88%d8%af%d9%88-%d8%ac%d9%84%d9%8a%d9%85%d8%aa-%d9%88-%d9%84%d8%a7%d8%b3%d9%83-%d9%84%d9%8a%d9%86%d8%b2-%d8%a8%d8%ab/",
+      "match_title": "مشاهدة مباراة بودو جليمت و لاسك لينز بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:59:57.988954+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/bodo-glimt-vs-lask/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d9%88%d8%af%d9%88-%d8%ac%d9%84%d9%8a%d9%85%d8%aa-%d9%88-%d9%84%d8%a7%d8%b3%d9%83-%d9%84%d9%8a%d9%86%d8%b2-%d8%a8%d8%ab/",
+          "about:blank",
+          "https://yallashot.team/player/bodo-glimt-vs-lask/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 27,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a-%d9%88-%d8%a3%d8%b3%d8%aa%d9%88%d9%86-%d9%81%d9%8a%d9%84%d8%a7-%d8%a8%d8%ab/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a-%d9%88-%d8%a3%d8%b3%d8%aa%d9%88%d9%86-%d9%81%d9%8a%d9%84%d8%a7-%d8%a8%d8%ab/",
+      "match_title": "مشاهدة مباراة جلطة سراي و أستون فيلا بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T18:00:59.090659+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/galatasaray-vs-aston-villa/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a-%d9%88-%d8%a3%d8%b3%d8%aa%d9%88%d9%86-%d9%81%d9%8a%d9%84%d8%a7-%d8%a8%d8%ab/",
+          "about:blank",
+          "https://yallashot.team/player/galatasaray-vs-aston-villa/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 27,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%88-%d8%a2%d9%8a%d9%86%d8%af%d9%87%d9%88%d9%81%d9%86-%d8%a8%d8%ab/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%88-%d8%a2%d9%8a%d9%86%d8%af%d9%87%d9%88%d9%81%d9%86-%d8%a8%d8%ab/",
+      "match_title": "مشاهدة مباراة ريال مدريد و آيندهوفن بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:16:25.005355+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/real-madrid-vs-psv-eindhoven/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%88-%d8%a2%d9%8a%d9%86%d8%af%d9%87%d9%88%d9%81%d9%86-%d8%a8%d8%ab/",
+          "about:blank",
+          "https://yallashot.team/player/real-madrid-vs-psv-eindhoven/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 31,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d9%84%d9%88%d9%81%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%d8%aa%d9%8a%d8%b3%d9%84%d8%a7%d9%81%d8%a7-%d9%88-%d8%b1%d9%8a%d8%a7/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d9%84%d9%88%d9%81%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%d8%aa%d9%8a%d8%b3%d9%84%d8%a7%d9%81%d8%a7-%d9%88-%d8%b1%d9%8a%d8%a7/",
+      "match_title": "مشاهدة مباراة سلوفان براتيسلافا و ريال بيتيس بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:18:27.603872+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/slovan-bratislava-vs-real-betis/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d9%84%d9%88%d9%81%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%d8%aa%d9%8a%d8%b3%d9%84%d8%a7%d9%81%d8%a7-%d9%88-%d8%b1%d9%8a%d8%a7/",
+          "about:blank",
+          "https://yallashot.team/player/slovan-bratislava-vs-real-betis/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 31,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a-%d9%88-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9-%d8%a8/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a-%d9%88-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9-%d8%a8/",
+      "match_title": "مشاهدة مباراة شباب الاهلي و القادسية بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T17:58:56.569198+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/shabab-al-ahli-vs-al-qadsiah/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a-%d9%88-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9-%d8%a8/",
+          "about:blank",
+          "https://yallashot.team/player/shabab-al-ahli-vs-al-qadsiah/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 27,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%81%d8%a7%d9%8a%d9%86%d9%88%d8%b1%d8%af-%d9%88-%d8%a8%d9%88%d8%b1%d8%aa%d9%88-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%81%d8%a7%d9%8a%d9%86%d9%88%d8%b1%d8%af-%d9%88-%d8%a8%d9%88%d8%b1%d8%aa%d9%88-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+      "match_title": "مشاهدة مباراة فاينورد و بورتو بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:20:32.371459+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/feyenoord-vs-porto/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%81%d8%a7%d9%8a%d9%86%d9%88%d8%b1%d8%af-%d9%88-%d8%a8%d9%88%d8%b1%d8%aa%d9%88-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+          "about:blank",
+          "https://yallashot.team/player/feyenoord-vs-porto/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 31,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%83%d9%88%d9%85%d9%88-%d9%88-%d8%a3%d9%8a%d9%83-%d8%a3%d8%ab%d9%8a%d9%86%d8%a7-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%83%d9%88%d9%85%d9%88-%d9%88-%d8%a3%d9%8a%d9%83-%d8%a3%d8%ab%d9%8a%d9%86%d8%a7-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+      "match_title": "مشاهدة مباراة كومو و أيك أثينا بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:21:27.947628+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": true,
+      "captcha_reason": "challenge-text: تحقق من أنك إنسان",
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/como-vs-aek-athens/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [
+          "https://subduepaler.cyou/lp/i/80/7c/807c57cbabca60271b25931771ae4996924ad706.mp4"
+        ],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%83%d9%88%d9%85%d9%88-%d9%88-%d8%a3%d9%8a%d9%83-%d8%a3%d8%ab%d9%8a%d9%86%d8%a7-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+          "about:blank",
+          "https://yallashot.team/player/como-vs-aek-athens/",
+          "about:srcdoc"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 36,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": [
+        "CAPTCHA detected mid-watch (challenge-text: تحقق من أنك إنسان) — site skipped this cycle, no stream attempted",
+        "mp4 seen (1) but no <video>/player context — likely an ad, kept in candidates only"
+      ]
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%84%d8%a7%d9%8a%d8%a8%d8%b2%d9%8a%d8%ac-%d9%88-%d9%84%d8%a7%d9%86%d8%b3-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%84%d8%a7%d9%8a%d8%a8%d8%b2%d9%8a%d8%ac-%d9%88-%d9%84%d8%a7%d9%86%d8%b3-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3/",
+      "match_title": "مشاهدة مباراة لايبزيج و لانس بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:22:28.235305+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": true,
+      "captcha_reason": "challenge-text: تحقق من أنك إنسان",
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/rb-leipzig-vs-lens/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [
+          "https://subduepaler.cyou/lp/i/80/7c/807c57cbabca60271b25931771ae4996924ad706.mp4"
+        ],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%84%d8%a7%d9%8a%d8%a8%d8%b2%d9%8a%d8%ac-%d9%88-%d9%84%d8%a7%d9%86%d8%b3-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3/",
+          "about:blank",
+          "https://yallashot.team/player/rb-leipzig-vs-lens/",
+          "about:srcdoc"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 36,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": [
+        "CAPTCHA detected mid-watch (challenge-text: تحقق من أنك إنسان) — site skipped this cycle, no stream attempted",
+        "mp4 seen (1) but no <video>/player context — likely an ad, kept in candidates only"
+      ]
+    },
+    {
+      "site": "syrialiive.cfd",
+      "match_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%88-%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a-%d8%a8%d8%ab/",
+      "final_url": "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%88-%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a-%d8%a8%d8%ab/",
+      "match_title": "مشاهدة مباراة مانشستر سيتي و نابولي بث مباشر سوريا لايف | syria live - سوريا لايف | syria live",
+      "kickoff": null,
+      "extracted_at": "2026-11-24T20:17:26.065208+00:00",
+      "page_status": 200,
+      "page_headers": {
+        "access-control-allow-origin": null,
+        "x-frame-options": null,
+        "content-security-policy": null
+      },
+      "captcha_detected": false,
+      "captcha_reason": null,
+      "player_tab_url": null,
+      "iframe_url": "https://yallashot.team/player/manchester-city-vs-napoli/",
+      "embed_host": "yallashot.team",
+      "stream_url": null,
+      "stream_type": null,
+      "stream_candidates": {
+        "m3u8_network": [],
+        "m3u8_dom": [],
+        "mp4_network": [],
+        "iframes_all": [
+          "https://syrialiive.cfd/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%88-%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a-%d8%a8%d8%ab/",
+          "about:blank",
+          "https://yallashot.team/player/manchester-city-vs-napoli/"
+        ],
+        "video_elements": []
+      },
+      "requests_seen": 31,
+      "popups_closed": 0,
+      "clicks": [
+        "server-button: سيرفر 1",
+        "play-overlay: [id*=player]"
+      ],
+      "notes": []
     }
   ]
 }
